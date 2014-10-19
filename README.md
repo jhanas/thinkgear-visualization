@@ -1,3 +1,3 @@
-jhana-visualization
+node-mindwave-visualization
 ===================
-jhana-visualization allows you to visualise your brainwaves in realtime.
+node-mindwave-visualization allows you to visualise your brainwaves in realtime.
